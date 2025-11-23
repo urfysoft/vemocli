@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/urfysoft/vemocli/refs/heads/main/vemo-cli",
+  "sha256": "32ccd78de92eba343470d8c4d4e470b0278e248bf7b2bedba55db43e65f502a6",
+  "channels": {
+    "stable": {
+      "version": "1.0.0",
+      "url": "https://raw.githubusercontent.com/urfysoft/vemocli/refs/heads/main/vemo-cli",
+      "sha256": "32ccd78de92eba343470d8c4d4e470b0278e248bf7b2bedba55db43e65f502a6"
+    }
+  }
+}
