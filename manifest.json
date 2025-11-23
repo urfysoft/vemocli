@@ -4,9 +4,25 @@
     "stable": {
       "version": "1.0.0",
       "binaries": {
-        "vemo-cli": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.0.0/vemo-cli",
-          "sha256": "018e9110d1fc7901e4db348ad09f84b772d348e85ede9d44101d8a708842ac52"
+        "linux-x64": {
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.0.0/linux-x64",
+          "sha256": "511cb67a84d782cfa756fc7984db89fbb946a736e289978f4bbd19f162cdd714"
+        },
+        "linux-arm64": {
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.0.0/linux-arm64",
+          "sha256": "ce28af6f95bc9b0193b259b6060ab050e7584cdb5e1f1b163e728c2404faa6e5"
+        },
+        "mac-arm64": {
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.0.0/mac-arm64",
+          "sha256": "12dd5b18f19c6d680868c657b6840b6d1989f72a91e26eda5c437b73bc485e90"
+        },
+        "mac-x64": {
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.0.0/mac-x64",
+          "sha256": "68e6f70d81f5d99b68091b4c04cf70cd4e707c06b4b846b163dfdfa54747e347"
+        },
+        "windows-x64": {
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.0.0/windows-x64.exe",
+          "sha256": "220b917bb06b4cef91466967faea7e5b182bc738adc692defce69cf00a407ab1"
         }
       }
     }
