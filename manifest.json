@@ -6,7 +6,7 @@
       "binaries": {
         "linux-x64": {
           "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.0/linux-x64",
-          "sha256": "511cb67a84d782cfa756fc7984db89fbb946a736e289978f4bbd19f162cdd714"
+          "sha256": "bf73fcc13047043963b03a71571583d7631466d06a87b73cae7a69c047486b62"
         },
         "linux-arm64": {
           "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.0/linux-arm64",
