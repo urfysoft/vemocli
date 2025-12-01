@@ -9,8 +9,8 @@
           "sha256": "9e8805012f68ebcc6a858e8e9d6cc78853ba3677117f86bcf5b428afe052f551"
         },
         "linux-arm64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.0/linux-arm64",
-          "sha256": "0b14992e115beec2d50b8589e3527c362fecc41ed70eb74964ce6550015d80ed"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.4/linux-arm",
+          "sha256": "0ff5f6831e1723ac9ab0a4f4f1ff359bd119329158c5351bf7e2f00cb2e2f9d6"
         },
         "mac-arm64": {
           "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.0/mac-arm64",
