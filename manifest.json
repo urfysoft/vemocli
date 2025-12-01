@@ -1,8 +1,8 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.7",
   "channels": {
     "stable": {
-      "version": "1.1.8",
+      "version": "1.1.7",
       "binaries": {
         "linux-x64": {
           "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.7/linux-x64",
