@@ -1,28 +1,28 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "channels": {
     "stable": {
-      "version": "1.1.5",
+      "version": "1.1.6",
       "binaries": {
         "linux-x64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.5/linux-x64",
-          "sha256": "7f0cb2beb2421049475564f0338a4306c30cf463f5b5567993c9264cbaf1cab1"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.6/linux-x64",
+          "sha256": "ce4a27744a59b397fe8a8f7921d6756bf2433dd190ad16635405dbc5806f87f9"
         },
         "linux-arm64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.5/linux-arm",
-          "sha256": "0f21ecafaef2d252db11a2f8f921b0eb2b88ba07e8d89503c51f175856f8e9a9"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.6/linux-arm",
+          "sha256": "a9484568223a83c2f07bb60ef4d3b6bc652bac8bc4009ad4bcf5128b45122872"
         },
         "mac-arm64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.5/mac-arm64",
-          "sha256": "9e759d13970c393f6e2f8a2ee0e5288c00d270acb8300a2efe35d83961e836b0"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.6/mac-arm64",
+          "sha256": "acf7d420394d8e877785c4575750dfba50cecc93d3b0f2f92ea0cff59f0f30d7"
         },
         "mac-x64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.5/mac-x64",
-          "sha256": "4e88fcb3e8cb7aac28a075d539d7aafe7cc37e6b9a8dd915a07c5cabdaf076c5"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.6/mac-x64",
+          "sha256": "591ed57e5ff5da8e69173f5b18b528a9eeecebfc0d693a0e8e1da6cea38efdd3"
         },
         "windows-x64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.5/windows-x64.exe",
-          "sha256": "7ef3a06d7883aa29396be0cab2eb141e5f3ef827fd2d14de53ad36fca87fcec8"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.6/windows-x64.exe",
+          "sha256": "261704dc42bc46e3d27e30ad7465df3467e75fc99f8f9e5f90c9ea1bd2634555"
         }
       }
     }
