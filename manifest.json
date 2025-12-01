@@ -1,12 +1,12 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "channels": {
     "stable": {
-      "version": "1.1.6",
+      "version": "1.1.7",
       "binaries": {
         "linux-x64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.6/linux-x64",
-          "sha256": "ce4a27744a59b397fe8a8f7921d6756bf2433dd190ad16635405dbc5806f87f9"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.7/linux-x64",
+          "sha256": "b8602ab7b68c9ec93f37b552e915f811c11d8bd82123197c804278052f459810"
         },
         "linux-arm64": {
           "url": "https://github.com/urfysoft/vemocli/releases/download/v1.1.6/linux-arm",
