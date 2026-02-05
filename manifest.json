@@ -1,28 +1,28 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "channels": {
     "stable": {
-      "version": "2.0.0",
+      "version": "2.1.0",
       "binaries": {
         "linux-x64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.0.0/linux-x64",
-          "sha256": "18a6058b42c19a4aa1597f03560ade5b03c283747b75b9ee5ce6c3ca6b6643be"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.1.0/linux-x64",
+          "sha256": "50b74abb7f6de5e9f64687cac3133eb7d5144fa720508917d92e8017e22833ce"
         },
         "linux-arm64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.0.0/linux-arm",
-          "sha256": "18a6058b42c19a4aa1597f03560ade5b03c283747b75b9ee5ce6c3ca6b6643be"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.1.0/linux-arm",
+          "sha256": "fc13d84bf9406f08dc7c1be38cb153e260ef4fbd5d4eb4fe829f7503a24edcd7"
         },
         "mac-arm64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.0.0/mac-arm64",
-          "sha256": "18a6058b42c19a4aa1597f03560ade5b03c283747b75b9ee5ce6c3ca6b6643be"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.1.0/mac-arm",
+          "sha256": "6474cf1f1c7232139fae22c68ac2f89fc35d44f840a8f747a891de4d0d2fcd1d"
         },
         "mac-x64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.0.0/mac-x64",
-          "sha256": "18a6058b42c19a4aa1597f03560ade5b03c283747b75b9ee5ce6c3ca6b6643be"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.1.0/mac-x64",
+          "sha256": "90b62f4db4ac36024d0a7a7d1dcf7b6345c828b017e7ef14484a11d842e5cbd8"
         },
         "windows-x64": {
-          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.0.0/windows-x64.exe",
-          "sha256": "18a6058b42c19a4aa1597f03560ade5b03c283747b75b9ee5ce6c3ca6b6643be"
+          "url": "https://github.com/urfysoft/vemocli/releases/download/v2.1.0/windows-x64.exe",
+          "sha256": "fe091de393b44ad1b847d2d1a9028167fea237c5dc1f3dec6b3b2d49adc4c4d5"
         }
       }
     }
