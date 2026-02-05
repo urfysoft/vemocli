@@ -10,19 +10,19 @@
         },
         "linux-arm64": {
           "url": "https://github.com/urfysoft/vemocli/releases/download/v2.0.0/linux-arm",
-          "sha256": "812f998f526d114034603b2cf6fcd1159017a2e50e87844a843248f6b66b3300"
+          "sha256": "18a6058b42c19a4aa1597f03560ade5b03c283747b75b9ee5ce6c3ca6b6643be"
         },
         "mac-arm64": {
           "url": "https://github.com/urfysoft/vemocli/releases/download/v2.0.0/mac-arm64",
-          "sha256": "0ac715243d1e1a49550d5c33951e271cedf625a301316814d2c19db5e451652b"
+          "sha256": "18a6058b42c19a4aa1597f03560ade5b03c283747b75b9ee5ce6c3ca6b6643be"
         },
         "mac-x64": {
           "url": "https://github.com/urfysoft/vemocli/releases/download/v2.0.0/mac-x64",
-          "sha256": "0438746138e7155c0bf026c5d198608777bfea93ba2c97eb3c5c135593263b33"
+          "sha256": "18a6058b42c19a4aa1597f03560ade5b03c283747b75b9ee5ce6c3ca6b6643be"
         },
         "windows-x64": {
           "url": "https://github.com/urfysoft/vemocli/releases/download/v2.0.0/windows-x64.exe",
-          "sha256": "bf1e4d9e3637410ba25f46efc0b7f790c5ea2f5302dde9729b8e56a8ac7478ba"
+          "sha256": "18a6058b42c19a4aa1597f03560ade5b03c283747b75b9ee5ce6c3ca6b6643be"
         }
       }
     }
